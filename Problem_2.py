@@ -120,5 +120,5 @@ def numar_in_cuvinte(numar):
 
 
 # Introduce un numar
-numar = 5987652149856541956419366548988525
+numar = 59876
 print(numar_in_cuvinte(numar))
