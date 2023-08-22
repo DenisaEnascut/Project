@@ -2,7 +2,6 @@
 # 1. literele mari se convertesc la llitere mici
 # 2. orice caracter in afara de litera mica,cifra si spatiu este ignorat
 # 3. sorteaza descrescator caracterele unice din sirul de mai sus in functie de frecventa in sirul dat . Daca sunt mai multe caractere va avea asociat un numar. Numarul reprezinta indexul in sortarea de mai sus.
-# Ex. caracterul 'e' apare cel mai des, de 5 ori, ia valoarea 0, caracterul 't' apare de 4 ori ia valoarea 1 caracterul ' ','2','i','n' apar de 3 ori.Vor primi valorile:2,3,4 si respectiv 5
 
 # Rezultatul final se obtine adunand pentru fiecare pozitie texul original, pozitia respectiva plus valoarea asociata caracterului aflat pe acea positie in urma procesarii de mai sus.Pe exemplul de mai sus avem
 # ex: pentru t:suma +=0+1
